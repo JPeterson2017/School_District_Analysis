@@ -11,7 +11,10 @@ The purpose of this project was to analyze student and school performances based
      - For scores by school spending, the variable would have stayed the same.
      - The Scores by school size are no longer neccessarily all inclusive because although we are counting the 9th grade students from Thomas High School, we do not have their actual, correct test scores. 
      - Scores by school type for Charter were already very close to what the NaN values were previously, therefore, the average scores did not change much. 
-
+     - PREVIOUS RESULTS WITH THOMAS HIGH SCHOOL, 9th GRADE SCORES:
+     ![OriginalScores!](/Resources/Previous_School_Summary.png)
+     - NEW RESULTS WITH THOMAS HIGH SCHOOL, 9th GRADE SCORES AS NaN:
+     ![UpdatedResults](/Resources/Corrected_School_Summary.png)
 
 ## Summary
 After replacing Thomas High School's 9th grade scores with NaN, the schools overall pass rate decreased from 90.94% to 90.63%. The average math score for the school, descreased from 83.418 to 83.350. The average reading score increased from 83.848 to 83.896. Although the average reading score increased, the pass % for reading decreased from 97.309% to 97.0187%.
